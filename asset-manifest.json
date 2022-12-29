@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mitoc-drive-wiki/static/css/main.073c9b0a.css",
-    "main.js": "/mitoc-drive-wiki/static/js/main.32856dd4.js",
+    "main.js": "/mitoc-drive-wiki/static/js/main.b0feed20.js",
     "static/js/787.e8abc8d6.chunk.js": "/mitoc-drive-wiki/static/js/787.e8abc8d6.chunk.js",
     "static/media/logo.svg": "/mitoc-drive-wiki/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mitoc-drive-wiki/index.html",
     "main.073c9b0a.css.map": "/mitoc-drive-wiki/static/css/main.073c9b0a.css.map",
-    "main.32856dd4.js.map": "/mitoc-drive-wiki/static/js/main.32856dd4.js.map",
+    "main.b0feed20.js.map": "/mitoc-drive-wiki/static/js/main.b0feed20.js.map",
     "787.e8abc8d6.chunk.js.map": "/mitoc-drive-wiki/static/js/787.e8abc8d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.32856dd4.js"
+    "static/js/main.b0feed20.js"
   ]
 }
